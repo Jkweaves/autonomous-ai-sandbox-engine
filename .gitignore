@@ -1,0 +1,13 @@
+# Local Database Folder (Never push your vector memory files)
+ai_memory/
+
+# Sensitive Variables & Keys
+.env
+.vscode/
+
+# Python caching & environments
+__pycache__/
+*.pyc
+venv/
+.venv/
+.vs/
